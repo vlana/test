@@ -1,2 +1,2 @@
 hello from github
-desktop
+desktop together with github
