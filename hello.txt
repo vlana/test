@@ -1,8 +1,2 @@
 hello from github
-
-<<<<<<< HEAD
-
-modification from desktop
-=======
-modification on git hub
->>>>>>> 992411b50b55a468d8c62ed4d172e749d6be4900
+desktop
